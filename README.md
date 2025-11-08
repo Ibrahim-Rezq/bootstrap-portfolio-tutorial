@@ -12,7 +12,7 @@ This project was created as a learning exercise to understand how **Bootstrap** 
 ---
 
 ## 🖼️ Preview
-![Bootstrap Portfolio](./screenshot.png)
+![Bootstrap Portfolio](./bootstrap-portfolio-tutorial.png)
 
 ---
 
